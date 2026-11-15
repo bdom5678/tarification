@@ -1,0 +1,10 @@
+<resources>
+    <color name="navy">#05356B</color>
+    <color name="or">#F2A900</color>
+    <style name="Theme.Tarification" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+        <item name="android:windowBackground">@color/navy</item>
+        <item name="android:colorAccent">@color/or</item>
+    </style>
+</resources>
